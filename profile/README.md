@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/badik-logo.png" alt="BADIK logo" width="220" />
+<img src="../images/badik-logo.png" alt="BADIK logo" width="220" />
 
 <h1>BADIK</h1>
 
